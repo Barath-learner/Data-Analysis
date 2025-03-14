@@ -1,11 +1,9 @@
-# Data-Analysis
 London Bike Sharing Data Analysis
 Introduction
 This project analyzes the London bike sharing dataset to create an interactive Tableau dashboard. The goal is to demonstrate end-to-end data analysis skills, from data collection and cleaning to dynamic visualization. The dashboard allows users to explore bike ride patterns based on weather, temperature, and time, showcasing proficiency in data handling and visualization.
 
 Dataset
 The dataset used is the "London bike sharing dataset" sourced from Kaggle (London bike sharing dataset | Kaggle). It contains 17,414 rows and 10 columns, including:
-
 timestamp: Date and time of the bike rides.
 cnt: Number of rides.
 t1: Real temperature (Celsius).
