@@ -6,7 +6,7 @@ This project analyzes the London bike sharing dataset to create an interactive T
 
 ## Dataset
 
-The dataset used is the "London bike sharing dataset" sourced from Kaggle ([London bike sharing dataset | Kaggle](https://www.kaggle.com/)).  It contains 17,414 rows and 10 columns, including:
+The dataset used is the "London bike sharing dataset" sourced from Kaggle.  It contains 17,414 rows and 10 columns, including:
 
 *   **timestamp:** Date and time of the bike rides.
 *   **cnt:** Number of rides.
